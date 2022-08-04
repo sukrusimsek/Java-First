@@ -1,0 +1,2 @@
+-Asal sayı kontrol uygulaması.
+-Scan edilen sayının asal olup olmadığını kontrol etmektedir.
