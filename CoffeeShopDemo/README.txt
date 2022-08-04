@@ -1,0 +1,4 @@
+-CoffeeShop Uygulaması
+-Sistemde Starbucks ve Nero firmaları üye kaydı yapmak istiyor.
+-Starbucks Mernis doğrulaması istemektedir.(Mernis bağlantısında hatalar aldım.)
+-Java&React Kampı 4.Gün 2.Ödevdir.
